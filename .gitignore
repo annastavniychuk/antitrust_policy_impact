@@ -1,0 +1,7 @@
+.DS_Store
+.Rhistory
+*.Rmd
+.gitattributes
+docs
+Untitled_cache
+Untitled_files
