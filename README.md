@@ -9,6 +9,8 @@ empirical conclusion was obtained on the basis of a sample of events of Russian 
 
 **For citation:** *Stavniychuk A.Y., Pavlova N.S. Antitrust’s effects: Lessons for evidence-based policy. Voprosy Ekonomiki. 2023;(5):68-90. (In Russ.) https://doi.org/10.32609/0042-8736-2023-5-68-90*
 
+---
+
 # Эффекты антитраста: уроки для доказательной политики
 
 Репозиторий содержит [онлайн-приложение](https://annastavniychuk.github.io/antitrust_policy_impact/) к статье [“Эффекты антитраста: уроки для доказательной политики”](https://doi.org/10.32609/0042-8736-2023-5-68-90)
